@@ -1,0 +1,6 @@
+[INFO  2022年05月10日 星期二 14时05分40秒] ...-installer/lua/nvim-lsp-installer/ui/status-win/init.lua:703: Starting install server_name="sumneko_lua", requested_version=""
+[ERROR 2022年05月10日 星期二 14时05分40秒] ...pt/nvim-lsp-installer/lua/nvim-lsp-installer/process.lua:153: Failed to spawn process. cmd="gh", err="ENOENT: no such file or directory"
+[INFO  2022年05月10日 星期二 14时06分13秒] ...-installer/lua/nvim-lsp-installer/ui/status-win/init.lua:703: Starting install server_name="sumneko_lua", requested_version=""
+[ERROR 2022年05月10日 星期二 14时06分13秒] ...pt/nvim-lsp-installer/lua/nvim-lsp-installer/process.lua:153: Failed to spawn process. cmd="gh", err="ENOENT: no such file or directory"
+[INFO  2022年05月10日 星期二 14时10分17秒] ...-installer/lua/nvim-lsp-installer/ui/status-win/init.lua:703: Starting install server_name="sumneko_lua", requested_version=""
+[ERROR 2022年05月10日 星期二 14时10分18秒] ...pt/nvim-lsp-installer/lua/nvim-lsp-installer/process.lua:153: Failed to spawn process. cmd="gh", err="ENOENT: no such file or directory"
